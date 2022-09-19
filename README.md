@@ -1,6 +1,6 @@
 # portfolio_ST
 portfolio de Sacha TORRES
-https://www.w3schools.com/code/tryit.asp?filename=FCVBR2ULCMUH
-ceci est la base de la construction du template pour le portfolio.
+ce site contient mon CV en cours , mes experiences pro
+les liens vers mes productions
 
 le portfolio en construction est visible : 
